@@ -1,21 +1,10 @@
 # 🤖 AI Creative Services Bot — Баптау нұсқаулығы
-
-## 1. Бот токенін алу
-1. Telegram-да @BotFather ашыңыз
-2. `/newbot` жазыңыз
-3. Атын беріңіз → токен аласыз
-4. `bot.py` ішіндегі `BOT_TOKEN = "СІЗДІҢ_BOT_TOKEN_МҰНДА"` орнына қойыңыз
-
-## 2. Өзіңіздің ID-ыңызды алу
-1. @userinfobot-қа жазыңыз
-2. Берген ID-ды `ADMIN_ID = 123456789` орнына қойыңыз
-
-## 3. Kaspi деректерін өзгерту
+`BOT_TOKEN = "8754227384:AAFlaA-7Bq6wVR8wVAOZqUwY86bCjJuJG4k"`
+`ADMIN_ID = 1313252587`
 ```python
-KASPI_NUMBER = "+7 700 000 00 00"  # Өз нөміріңіз
-KASPI_NAME   = "Сіздің Атыңыз"    # Kaspi-дегі атыңыз
+KASPI_NUMBER = "+7 7474513371"  
+KASPI_NAME   = "Сабира С"   
 ```
-
 ## 4. Бағаларды өзгерту
 `SERVICES` сөздігінде әр қызмет үшін:
 - `price_kz` / `price_ru` — баға
