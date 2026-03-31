@@ -1,10 +1,9 @@
 # 🤖 AI Creative Services Bot — Баптау нұсқаулығы
 `BOT_TOKEN = "8754227384:AAFlaA-7Bq6wVR8wVAOZqUwY86bCjJuJG4k"`
 `ADMIN_ID = 1313252587`
-```python
 KASPI_NUMBER = "+7 7474513371"  
-KASPI_NAME   = "Сабира С"   
-```
+KASPI_NAME   = "Сабира С"
+
 ## 4. Бағаларды өзгерту
 `SERVICES` сөздігінде әр қызмет үшін:
 - `price_kz` / `price_ru` — баға
